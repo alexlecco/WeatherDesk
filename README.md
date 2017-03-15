@@ -1,3 +1,5 @@
+![config](http://www.webupd8.org/2017/02/weatherdesk-changes-your-wallpaper.html)
+
 # WeatherDesk
 
 Change the wallpaper based on the weather and (optionally) the time.
