@@ -1,4 +1,4 @@
-![config](http://www.webupd8.org/2017/02/weatherdesk-changes-your-wallpaper.html)
+[config](http://www.webupd8.org/2017/02/weatherdesk-changes-your-wallpaper.html)
 
 # WeatherDesk
 
